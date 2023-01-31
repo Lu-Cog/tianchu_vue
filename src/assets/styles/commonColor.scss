@@ -1,0 +1,53 @@
+
+// base color
+$red:rgba(212, 48, 48, 1);
+$green:rgba(67, 207, 124, 1);
+$blue:rgba(42, 130, 228, 1);
+$orange:rgba(255, 141, 26, 1);
+$wRed:rgba(224, 85, 85, 1);
+$grey:rgba(133, 72, 72, 1);
+$lBlue:rgba(66, 200, 207, 1);
+$purple:rgba(121, 72, 234, 1);
+
+:export {
+  rwzt0: $orange;
+  rwzt2: $blue;
+  rwzt3: $red;
+  
+  jjcd1: $blue;
+  jjcd2: $orange;
+  jjcd3: $red;
+  
+  gzlx0: $orange;
+  gzlx1: $green;
+  
+  rwlx1: $blue;
+  rwlx2: $green;
+  rwlx3: $red;
+  
+  status1:$green;
+  status0:$red;
+  
+  sjzt0:$red;
+  sjzt1:$orange;
+  sjzt2:$blue;
+  
+  dkzt0:$red;
+  dkzt1:$blue;
+  dkzt2:$orange;
+  dkzt3:$orange;
+  
+  qjlx1:$green;
+  qjlx2:$blue;
+  qjlx3:$purple;
+  qjlx4:$orange;
+  qjlx5:$orange;
+  qjlx6:$wRed;
+  qjlx7:$grey;
+  qjlx10:$lBlue;
+  
+  qjzt0:$orange;
+  qjzt1:$blue;
+  qjzt2:$red;
+  qjzt3:$orange;
+}
